@@ -40,7 +40,7 @@ else
 $module_directory	= 'ace';
 $module_name		= 'Ace Editor';
 $module_function 	= 'WYSIWYG';
-$module_version 	= '0.1.0';
+$module_version 	= '1.2.0.0';
 $module_platform 	= '1.x';
 $module_delete 		=  false;
 $module_author 		= 'LEPTON Project';
